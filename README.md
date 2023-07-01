@@ -32,9 +32,9 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/tejasvita-nale-2513-anket/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tejasvita nale" height="30" width="40" /></a>
 </p>
-<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tejasvita7272&show_icons=true&locale=en&layout=compact" alt="tejasvita7272" /></p>
-<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tejasvita7272&show_icons=true&locale=en" alt="tejasvita7272" /></p>
-<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tejasvita7272&" alt="tejasvita7272" /></p>
