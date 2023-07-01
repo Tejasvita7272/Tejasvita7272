@@ -11,7 +11,7 @@
 
 - 👯 I’m looking Forward to collaborate on **Various Data Science and Data Analyst Projects**
 
-- 💬 Ask me about **Machine Learning, Deep learning, Excel, SQl and PowerBI**
+- 💬 Ask me about **Machine Learning, Deep learning, Excel, SQl, Tableau and PowerBI**
 
 - 📫 reach me at **tejasvitanale@gmail.com**
 
