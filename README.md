@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as [Intern at AI Variant](https://aivariant.com/)
 
-- 🌱 I’m currently learning **Machine Learning & Deep Learning**
+- 🌱 I’m currently learning **SQL,Tableau and PowerBI**
 
 - 👯 I’m looking Forward to collaborate on **Various Data Science and Data Analyst Projects**
 
