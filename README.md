@@ -24,10 +24,10 @@
 <img align="left" alt="Anaconda" height="40" src="https://raw.githubusercontent.com/habc0d3r/images-repo/master/icons8-anaconda.svg" />
 <img src="https://user-images.githubusercontent.com/94888819/179422108-0108ecc4-96d4-4a9f-93d2-f4f2ea98688e.png" alt="stream" width="40" height="50"/> </a>
  
-## `Projects:`
+<!-- ## `Projects:`
 ### [Stock Market Price Prediction](https://github.com/ShubhamMore4/Project-Stock_Price_Prediction)
 ### [Resume Classification](https://github.com/ShubhamMore4/Project-Resume_Classification)
-
+-->
 ## `Connect with me:`
 <p align="left">
 <a href="https://www.linkedin.com/in/tejasvita-nale-2513-anket/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tejasvita nale" height="30" width="40" /></a>
